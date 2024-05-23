@@ -91,10 +91,6 @@ The included `checklist.json` file is an example that includes tasks for Fate/Gr
 }
 ```
 
-## License
-
-This project is licensed under the ISC License.
-
 ## Screenshots
 
 https://github.com/71Kevin/gacha-daily-checklist/assets/37316637/5ce04ee7-210f-489f-beb2-43ec971af0ae
@@ -106,3 +102,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Acknowledgments
 
 This application is inspired by the need for a simple tool to help gacha game players keep track of their numerous daily, weekly, and monthly tasks.
+
+## License
+
+This project is licensed under the ISC License.
