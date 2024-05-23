@@ -1,0 +1,44 @@
+{
+    "daily": {
+        "Fate/Grand Order": [
+            "Daily login",
+            "FP summon",
+            "Events/interludes (if any active)"
+        ],
+        "Genshin Impact": [
+            "Daily check-in",
+            "Commissions",
+            "Expeditions",
+            "Serenitea Pot",
+            "Events (if any active)",
+            "Plan your Resin / spend Resin",
+            "Collect Materials / Do daily mobs to get materials (e.g., red medals)",
+            "Forge Your Rocks (mining / forging stones at the blacksmith)",
+            "Redeem purple keys / use purple keys"
+        ]
+    },
+    "weekly": {
+        "Fate/Grand Order": [
+            "Weekly quests"
+        ],
+        "Genshin Impact": [
+            "Weekly bosses (Arlecchino, Stormterror, Baleia Devoradora, Signora)",
+            "Weekly reputation city missions"
+        ]
+    },
+    "monthly": {
+        "Fate/Grand Order": [
+            "Chaldean Visionary Flames",
+            "Print grails"
+        ],
+        "Genshin Impact": [
+            "Paimon's shop"
+        ]
+    },
+    "other": {
+        "Genshin Impact": [
+            "Abyss",
+            "The Catch R5"
+        ]
+    }
+}

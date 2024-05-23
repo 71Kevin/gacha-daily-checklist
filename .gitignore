@@ -1,25 +1,17 @@
-# CakePHP 3
+# .gitignore
 
-/vendor/*
-/config/app.php
+# Ignore vendor directory
+/vendor/
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# Ignore .DS_Store files
+.DS_Store
 
-/logs/*
-!/logs/empty
+# Ignore log files
+*.log
+error_log
 
-# CakePHP 2
+# Ignore environment configuration files
+.env
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# Ignore Composer lock file
+composer.lock
